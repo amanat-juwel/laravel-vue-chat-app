@@ -1,0 +1,6 @@
+Client ID: 1
+Client secret: 4KuDHq7Xi7nXOYBGjOf0gqm1HC2AWUM5e39n8uxJ
+Password grant client created successfully.
+Client ID: 2
+Client secret: pKPR93kOkAPqUyZCQkaADKQrBVS9bWQyFrLNRCCK
+PS H:\xampp\htdocs\laravel-vue-pack-58>
